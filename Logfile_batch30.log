@@ -1,0 +1,10 @@
+[INFO] [16_05_22      08:09]  ******************** Senior citizen 2 years 2 laksh    *********************
+[INFO] [16_05_22      08:09]  ********************************************************************
+[INFO] [16_05_22      08:09] Broswer invokes sucdessfully
+[INFO] [16_05_22      08:09] Banking application is invoked successfully
+[INFO] [16_05_22      08:09] The data which you are providng may not correct pls provide valid data
+[INFO] [16_05_22      08:09] Fixed deposit button clicked 
+[INFO] [16_05_22      08:09]  senior citizen button clicked
+[INFO] [16_05_22      08:09] Interest caluculation done for 2 years 2 laksh and total interest is 1200
+[INFO] [16_05_22      08:09] Expected calucualated is 1200 and in application is also displaying 1200, hence test case is passed
+[INFO] [16_05_22      08:09] Test case passed
